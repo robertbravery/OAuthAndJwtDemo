@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authenticator", "Authentica
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerCore", "IdentityServerCore\IdentityServerCore.csproj", "{CFA89177-14AC-4922-8E72-0FCE678E301D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPAPI", "TPAPI\TPAPI.csproj", "{5E1901D3-EA19-4624-95D6-0B7D533CB789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdPartyAPI", "TPAPI\ThirdPartyAPI.csproj", "{5E1901D3-EA19-4624-95D6-0B7D533CB789}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebOAuthDemo", "WebOAuthDemo\WebOAuthDemo.csproj", "{8F44F49B-1044-4ABA-88C1-4716FBC7F877}"
 EndProject

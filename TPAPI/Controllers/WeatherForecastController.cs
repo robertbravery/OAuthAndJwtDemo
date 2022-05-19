@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace TPAPI.Controllers
+namespace ThirdPartyAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]

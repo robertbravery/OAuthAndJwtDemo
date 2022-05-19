@@ -1,4 +1,4 @@
-namespace TPAPI
+namespace ThirdPartyAPI
 {
     public class WeatherForecast
     {

@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "TPAPI": {
+    "ThirdPartyAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Authentication;
 
-namespace TPAPI.Controllers
+namespace ThirdPartyAPI.Controllers
 {
     [Route("api/[controller]/[action]")]
     [ApiController]
